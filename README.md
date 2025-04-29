@@ -6,7 +6,7 @@ The Zomato-Bangalore-Restaurants dataset provides insights into various factors 
 Data Description
 The dataset consists of several features that describe different aspects of restaurants in Bangalore:
 
-url: URL of the restaurant on the Zomato website
+url: URL of the restaurant on the Zomato website \n
 address: Address of the restaurant in Bengaluru
 name: Name of the restaurant
 online_order: Availability of online ordering
